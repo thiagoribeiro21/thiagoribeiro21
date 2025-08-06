@@ -21,9 +21,9 @@ Apaixonado por desenvolvimento web e estudante de Análise e Desenvolvimento de 
 
 ### 🚀 Meus Projetos
 
--   🎬 **[Projeto CineVida](https://cinevida.netlify.app/)** - Uma aplicação web dinâmica para explorar um catálogo de filmes, consumindo em tempo real a API do The Movie Database (TMDB).
--   🐾 **[Projeto Creche Casacão](https://crechecasacao.netlify.app/)** - Website responsivo e interativo para uma creche e hotel de cães fictícia.
--   👤 **[Portfólio Pessoal](https://portfoliopessoaltr.netlify.app/)** - Meu primeiro portfólio, desenvolvido para apresentar meus projetos e trajetória.
+-   🎬 **<a href="https://cinevida.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto CineVida</a>** - Uma aplicação web dinâmica para explorar um catálogo de filmes, consumindo em tempo real a API do The Movie Database (TMDB).
+-   🐾 **<a href="https://crechecasacao.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Creche Casacão</a>** - Website responsivo e interativo para uma creche e hotel de cães fictícia.
+-   👤 **<a href="https://portfoliopessoaltr.netlify.app/" target="_blank" rel="noopener noreferrer">Portfólio Pessoal</a>** - Meu primeiro portfólio, desenvolvido para apresentar meus projetos e trajetória.
 
 ---
 
