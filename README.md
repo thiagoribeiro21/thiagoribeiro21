@@ -36,7 +36,7 @@ Apaixonado por desenvolvimento e estudante de Análise e Desenvolvimento de Sist
 -   🎬 **<a href="https://cinevida.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto CineVida</a>** - Uma aplicação web dinâmica para explorar um catálogo de filmes, consumindo em tempo real a API do The Movie Database (TMDB).
 -   🐾 **<a href="https://crechecasacao.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Creche Casacão</a>** - Website responsivo e interativo para uma creche e hotel de cães fictícia.
 -   👤 **<a href="https://portfoliopessoaltr.netlify.app/" target="_blank" rel="noopener noreferrer">Portfólio Pessoal</a>** - Meu primeiro portfólio, desenvolvido para apresentar meus projetos e minha trajetória.
-- 🛒 **<a href="https://aurora-ecommerce.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Aurora (E-commerce)</a>** - Um e-commerce funcional com login/cadastro e carrinho de compras, construído com React e TypeScript para o portfólio.
+- ☕ **<a href="https://aurora-ecommerce.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Aurora (E-commerce)</a>** - Um e-commerce funcional com login/cadastro e carrinho de compras, construído com React e TypeScript para o portfólio.
 
 ---
 
