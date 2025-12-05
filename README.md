@@ -10,7 +10,6 @@ Apaixonado por desenvolvimento e estudante de Análise e Desenvolvimento de Sist
 * **Back-end:** Node.js, Express, NestJS e desenvolvimento de APIs REST.
 * **Bancos de Dados:** MySQL/MariaDB (com Sequelize), MongoDB (com Mongoose) e PostgreSQL.
 * **Testes e Arquitetura:** Testes automatizados com Jest, princípios S.O.L.I.D. e Design Patterns.
-* **Nas horas vagas:** Sou apaixonado por jogos, mangás, futebol, F1 e praia.
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
