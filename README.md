@@ -34,7 +34,7 @@ Atualmente, atuo como Desenvolvedor Principal liderando projetos de alta convers
 
 - 🦅 **[Ravenn Studio](https://ravenn-studio.vercel.app/)** - Minha agência de soluções digitais. Foco em automação, criação de sites com IA e desenvolvimento de agentes autônomos.
 - 🤖 **[Especialista Lovable](https://especialistalovable.com.br/)** - Plataforma desenvolvida com foco em alta conversão e integração com Inteligência Artificial.
-- 🛋️ **[Decorartti](https://decorartti.com.br/)** - E-commerce/Vitrine otimizada para alta visibilidade, performance e SEO técnico.
+- 🛋️ **[Decorartti](https://decorartti.com.br/)** - Vitrine otimizada para alta visibilidade, performance e SEO técnico.
 - ☕ **[Projeto Aurora (E-commerce)](https://aurora-ecommerce.netlify.app/)** - Um e-commerce completo com autenticação via Firebase e gerenciamento de estado com Context API, construído com React e TypeScript.
 
 *(Meus projetos de estudo iniciais, como o CineVida e Creche Casacão, também continuam em meus repositórios para demonstrar minha evolução estrutural em código).*
