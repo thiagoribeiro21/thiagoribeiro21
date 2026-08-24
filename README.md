@@ -1,45 +1,49 @@
 # Prazer! Meu nome é Thiago Ribeiro 👋
 
-Apaixonado por desenvolvimento e estudante de Análise e Desenvolvimento de Sistemas. Meu foco é na área de **FullStack e Web**, onde busco criar interfaces intuitivas, responsivas e que proporcionem uma ótima experiência ao usuário.
+Sou Desenvolvedor Full-Stack, Especialista em Inteligência Artificial e **Fundador da [Ravenn Studio](https://ravenn-studio.vercel.app/)**. 
+
+Atualmente, atuo como Desenvolvedor Principal liderando projetos de alta conversão e integrando IAs generativas no desenvolvimento de software. Meu foco é unir código limpo, automação de processos e estratégias de marketing para construir plataformas modernas, agentes autônomos e soluções escaláveis.
 
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
 
-* **Front-end:** React (com Hooks), Redux (com Saga), JavaScript (ES6+), TypeScript, HTML5, CSS3 e Webpack.
-* **Back-end:** Node.js, Express, NestJS e desenvolvimento de APIs REST.
-* **Bancos de Dados:** MySQL/MariaDB (com Sequelize), MongoDB (com Mongoose) e PostgreSQL.
-* **Testes e Arquitetura:** Testes automatizados com Jest, princípios S.O.L.I.D. e Design Patterns.
+* **Inteligência Artificial & Automação:** Engenharia de Prompt, Claude Code, Lovable e Agentes Autônomos (WhatsApp/Google Ads).
+* **Front-end:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind e Context API.
+* **Back-end & Cloud:** Node.js, NestJS, APIs REST, Supabase e Vercel (CI/CD).
+* **Bancos de Dados:** PostgreSQL, MySQL, e MongoDB.
+* **CMS & SEO:** WordPress, Elementor, SEO Técnico e Otimização de Performance (Core Web Vitals).
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- Ícones antigos que você já tinha -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <!-- Novos ícones para adicionar peso (Supabase, Vercel, WordPress) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 </p>
 
+---
+
+### 🚀 Cases de Sucesso e Projetos Principais
+
+- 🦅 **[Ravenn Studio](https://ravenn-studio.vercel.app/)** - Minha agência de soluções digitais. Foco em automação, criação de sites com IA e desenvolvimento de agentes autônomos.
+- 🤖 **[Especialista Lovable](https://especialistalovable.com.br/)** - Plataforma desenvolvida com foco em alta conversão e integração com Inteligência Artificial.
+- 🛋️ **[Decorartti](https://decorartti.com.br/)** - E-commerce/Vitrine otimizada para alta visibilidade, performance e SEO técnico.
+- ☕ **[Projeto Aurora (E-commerce)](https://aurora-ecommerce.netlify.app/)** - Um e-commerce completo com autenticação via Firebase e gerenciamento de estado com Context API, construído com React e TypeScript.
+
+*(Meus projetos de estudo iniciais, como o CineVida e Creche Casacão, também continuam em meus repositórios para demonstrar minha evolução estrutural em código).*
 
 ---
 
-### 🚀 Meus Projetos
+### 📫 Vamos Conversar?
 
--   🎬 **<a href="https://cinevida.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto CineVida</a>** - Uma aplicação web dinâmica para explorar um catálogo de filmes, consumindo em tempo real a API do The Movie Database (TMDB).
--   🐾 **<a href="https://crechecasacao.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Creche Casacão</a>** - Website responsivo e interativo para uma creche e hotel de cães fictícia.
--   👤 **<a href="https://portfoliopessoaltr.netlify.app/" target="_blank" rel="noopener noreferrer">Portfólio Pessoal</a>** - Meu primeiro portfólio, desenvolvido para apresentar meus projetos e minha trajetória.
-- ☕ **<a href="https://aurora-ecommerce.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto Aurora (E-commerce)</a>** - Um e-commerce funcional com login/cadastro e carrinho de compras, construído com React e TypeScript para o portfólio.
-
----
-
-### 📫 Formas de Contato
+Seja para falar sobre tecnologia, negócios, IA ou parcerias, sinta-se à vontade para me chamar:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagorib21/" target="_blank">
@@ -47,5 +51,8 @@ Apaixonado por desenvolvimento e estudante de Análise e Desenvolvimento de Sist
   </a>
   <a href="mailto:thiago.ribeiro2003@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ravenn-studio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ravenn_Studio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ravenn Studio">
   </a>
 </p>
